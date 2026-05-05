@@ -11,14 +11,15 @@
 |------|-------|
 | Status | ❌ Stalled |
 | Active days | 1 / 7 |
-| Total commits | 1 |
+| Total commits | 2 |
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |---|---|---|---|---|---|---|
-| ⚪ | **1** | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
+| ⚪ | **2** | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
 
 **Tue – Tuesday, May 5**
 
+- `7c34a82` docs: include product-flow SVG so docs/product-spec.md image renders — _dongzhang84_ `2026-05-05 13:46`
 - `961600c` initial commit — AIfy docs + CI — _dongzhang84_ `2026-05-05 13:45`
 
 ---
